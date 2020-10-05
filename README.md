@@ -1,8 +1,11 @@
-<div style="display: flex; justify-content: space-between; width:100%">
+<div style="display: flex; width:100%">
+<img align=center display=flex width=10% src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
+<img align=center display=flex width=10% src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
 <img align=center display=flex width=10% src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif">
 <img align=center width=10% src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
 <img align=center width=10% src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
 </div>
+
 
 <!--
 **Charlie-robin/Charlie-robin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
