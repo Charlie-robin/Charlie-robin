@@ -1,4 +1,8 @@
-# Charlie Richardson
+<div display=flex width=100%>
+<img margin=10px display=flex width=20% src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif">
+<img width=20% src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+<img width=20% src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
+</div>
 
 <!--
 **Charlie-robin/Charlie-robin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
