@@ -1,7 +1,7 @@
-<div display=flex width=100%>
-<img margin=10px display=flex width=20% src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif">
-<img width=20% src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-<img width=20% src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
+<div style="display: flex; justify-content: space-between; width:100%">
+<img align=center display=flex width=10% src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif">
+<img align=center width=10% src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+<img align=center width=10% src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
 </div>
 
 <!--
