@@ -1,6 +1,4 @@
 # Hello 🤙
-## About
-- I’m currently learning Node
 
 ### 🛠 Tech Stack
 <p align=left> 
