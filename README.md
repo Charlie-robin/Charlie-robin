@@ -1,6 +1,6 @@
 # Hello 🤙
 
-### 🛠 Tech Stack
+---
 <p align=left> 
 <img align=center display=flex width=10% src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
 <img align=center display=flex width=10% src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
@@ -9,7 +9,7 @@
 <img align=center width=10% src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
 </p>
 
-### 🤝 Contact
+---
 <p align=left>
   &nbsp; <a href="https://www.charlie-richardson.co.uk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/globe.png" width=5% /></a>
 &nbsp; <a href="https://www.linkedin.com/in/charlie-richardson-625ab3190/" target="_blank" ><img src="https://img.icons8.com/doodle/100/000000/linkedin.png" width=5% /></a>
