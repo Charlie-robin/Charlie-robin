@@ -1,23 +1,29 @@
-# Hello 🤙
+### Hello 🤙
+My name is Charlie, How's it going? 
 
+I am a big fan of:
+- :bicyclist:
+- :robot: 
+- :doughnut:
 
-### Stack
-<p align=left> 
-<img align=center display=flex width=10% src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
-<img align=center display=flex width=10% src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
-<img align=center display=flex width=10% src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif">
-<img align=center width=10% src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-<img align=center width=10% src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-</p>
+[instagram]: https://eresh-zealous.medium.com/
+[github]: https://eresh-zealous.medium.com/
+[codepen]:https://codepen.io/charlie-robin
+[linkedin]:https://www.linkedin.com/in/charlie-robin-richardson/
+[gmail]:charlie.robin.richardson@gmail
 
 ---
 
 ### Contact
-<p align=left>
-  &nbsp; <a href="https://www.charlie-richardson.co.uk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/globe.png" width=5% /></a>
-&nbsp; <a href="https://www.linkedin.com/in/charlie-richardson-625ab3190/" target="_blank" ><img src="https://img.icons8.com/doodle/100/000000/linkedin.png" width=5% /></a>
-  &nbsp; <a href="https://www.instagram.com/radioactiveradness/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/instagram.png" width=5% /></a>
-&nbsp; <a href="mailto:charlie.robin.richardson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/gmail.png"  width=5%/></a>
-</p>
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />][codepen]
+
+
+---
+
+
 
 
