@@ -24,14 +24,6 @@ I am a big fan of:
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-robin&theme=zenburn)
 
-<br/>
-
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-robin)
-
-
-
-
-
 ---
 ### :earth_asia: Contact
 If you want to get in contact here is where I am hiding.
