@@ -10,6 +10,13 @@ I am a big fan of:
 - :octocat: Coding
 
 ---
+
+### :chart_with_upwards_trend: Stats    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Charlie-robin&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Charlie-robin&theme=github_dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-robin&theme=github_dark)
+
+---
 ### :factory: Tech Stack && Tools
 
 | | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |  |  | 
@@ -20,11 +27,7 @@ I am a big fan of:
 
     
 ---
-### :chart_with_upwards_trend: Stats    
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-robin&theme=zenburn)
-
----
 ### :earth_asia: Contact
 If you want to get in contact here is where I am hiding.
 
