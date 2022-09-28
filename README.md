@@ -1,13 +1,19 @@
 ### 🤙 Hello 
 My name is Charlie, How's it going? 
 
+#### Who am I?
+
 I am an associate software development coach working for _nology. 
 
-What does that mean? 
+#### What does that mean? 
 
 I run courses that cover software development, cloud engineering and professional skills across a varied tech stack. 
 
-I am a career changer with a background in production and operations. It made perfect sense to move into automation and development. 
+#### How did you get into that?
+
+I am a career changer with a background in production and operation management. As that career wound down It made perfect sense to move into automation and development. 
+
+I enjoy learning, coaching and building things and have found a way to make it my part of my career. 
 
 ---
 ### :zap: Interests
