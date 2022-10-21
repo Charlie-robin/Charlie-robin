@@ -3,7 +3,7 @@ My name is Charlie, How's it going?
 
 #### Who am I?
 
-I am an associate software development coach working for _nology. 
+I am a senior software development coach working for _nology. 
 
 #### What does that mean? 
 
