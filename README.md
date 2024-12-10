@@ -3,11 +3,11 @@ My name is Charlie, How's it going?
 
 #### Who am I?
 
-I am a senior software development coach working for _nology. 
+I am a Professional Development Expert (Software Engineering) working for Corndel
 
 #### What does that mean? 
 
-I run courses that cover software development, cloud engineering and professional skills across a varied tech stack. 
+I currently run courses that cover software development for apprentices. In previous roles, I have also run courses in cloud engineering and professional skills across a varied tech stack.
 
 #### How did you get into that?
 
